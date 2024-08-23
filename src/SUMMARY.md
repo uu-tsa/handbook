@@ -17,5 +17,11 @@
 
 - [建築](./buildings.md)
 - [免費資源](./free_uu.md)
+- [打工](./part_time.md)
+- [Kahlert School of Computing](./ksoc.md)
+
+# 其他
+
+- [免費資源](./free.md)
 
 
