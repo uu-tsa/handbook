@@ -11,9 +11,12 @@
 
 - 新車: 有很多經銷商(南邊便宜?)，要付訂金時可以跟他砍價。
 - 二手車行:
- - KBB
- - Marketplace
- - KSL
+  - KBB
+  - Marketplace
+  - KSL
+- 考慮買大台一點的車，畢竟在猶他戶外活動很多。大的空間可以裝雪具、登山、露營用具。
+  - Honda, Toyota, Mazda, Shubaru, Ford or GMC 皮卡是這邊居民的愛。
+  - 大多臺灣人推薦買日本車，維修保養比較便宜。
 
 ### 汽車駕照
 
