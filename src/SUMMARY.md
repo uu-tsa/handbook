@@ -3,6 +3,8 @@
 [簡介](./intro.md)
 [行前指南](./pre_arrival.md)
 [安頓手續](./arrival.md)
+[**大一新生請進**](./freshman.md)
+
 
 # 生活
 

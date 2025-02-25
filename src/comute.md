@@ -2,7 +2,7 @@
 
 ### 大眾運輸
 
-持 UU 學生證 UTA 系統皆免費。
+持 UU 學生證 UTA 系統皆免費。公車或是 shuttle 基本上在站牌有看到人都會停，不用特別揮手。
 
 - UTA: 公車 (上車刷卡、下車拉線)以及輕軌，可以載 Transit 的 app。
 - 學校的 Shuttle bus: 可以載 TransLoc 的 app。
