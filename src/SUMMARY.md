@@ -20,7 +20,8 @@
 - [建築](./buildings.md)
 - [免費資源](./free_uu.md)
 - [打工](./part_time.md)
-- [Kahlert School of Computing](./ksoc.md)
+- [Master of Science in Computer Science](./mscs.md)
+- [Master of Software Development](./msd.md)
 
 # 其他
 
