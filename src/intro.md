@@ -2,7 +2,12 @@
 
 大家好！我們是猶他大學臺灣學生自救會!
 
-會長：Charlie Hsu (charliecc8998@gmail.com)
+會長：Justin Cheng (Justinpipi12345@gmail.com, IG: [justinchengg16](https://www.instagram.com/justinchengg16))
+
+- 臉書社團：[連結](https://www.facebook.com/share/g/1BQoXMR3pq/)
+- Line 交流群：[加入連結](https://line.me/ti/g/Tm-Q_FeCom)
+
+![Line QR code](utah_line.jpg)
 
 ### 更新資訊
 

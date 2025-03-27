@@ -27,3 +27,5 @@
 - Tea Bar、Kung Fu Tea(from NY)
 - 中國城: Aboutea(功夫茶)、老虎堂、85度C
 - 快樂小羊
+- 刁四麻辣燙
+- 港式燒鴨、點心

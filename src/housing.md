@@ -15,6 +15,7 @@
 - Avia, Mya: 這兩間都是學校合作的 off-campus 宿舍。
   - 優點：離 Trax 站近、附近也有 7-11 跟 Smith's。
   - 缺點：附近遊民有越來越多的傾向。
+- Citizen: 這間也是學校合作的 off-campus 宿舍。慎選室友！
 - [Facebook 租屋社團](https://www.facebook.com/groups/675656609223294/)
 - [Zillow](https://www.zillow.com/salt-lake-city-ut/rentals/)
 - 詢問有沒有學長姐要搬走釋出房源
