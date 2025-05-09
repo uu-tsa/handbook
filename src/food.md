@@ -1,31 +1,38 @@
 # 食
 
-### 超市
+本頁整理常見的超市與推薦餐廳，讓你在猶他大學附近也能輕鬆找到好吃又熟悉的味道！
 
-- Smith's: 便宜好逛、又大。
-- Dan's Market: 位於 foothill，稍微比 Smith's 貴一點，但是蔬菜水果都超級新鮮。
-- Trader's Joe: 有點小，主要是生鮮食品。
-- ChinaTown Market: 中國城超市，可以找到 Smith's 沒有的，我們熟悉的東西。(還會播周杰倫、王心凌的歌)。
-- 順發
-- H Mart
-- Walmart: 比 Smith's 大 = 大潤發、家樂福。**Walmart 沒辦法用 tap pay 只能用實體卡或是 Walmart pay**。
-- Costco: 熱狗讚。
-- Sprouts: 有時候會有驚人的特價。
+## 🛒 超市推薦
 
-### 餐廳
+- **Smith's**：便宜好逛、商品齊全，是許多學生的日常採購首選。
+- **Dan's Market**：位於 Foothill 區，價格稍高但蔬果品質非常新鮮，適合注重食材的人。
+- **Trader Joe's**：空間不大，以有機食品與異國調味料為主，很適合挖寶。
+- **China Town Market**：中國城裡的超市，能找到台灣常見的食材和零食，有時還會播周杰倫和王心凌的歌 🎶
+- **順發**：中國城另一家超市，選擇也很多，常見台灣泡麵、醬油、鍋物材料等。
+- **H Mart**：韓國超市，生鮮區品質不錯，冷凍火鍋料選擇超多。
+- **Walmart**：像是美版家樂福，大到逛不完！但**不支援 tap pay，需用實體卡或 Walmart Pay**。
+- **Costco**：會員制大賣場，份量大但價格實惠，熱狗 $1.50 附飲料，傳說級划算。
+- **Sprouts**：有時會有出乎意料的特價（例如 4 顆酪梨 $1），適合定期去看看。
 
-- B&D Burgers (near our campus)
-- Pie Pizza
-- Raising Cane's Chicken Fingers
-- Shake Shack、In-N-Out Burger
-- Pretty Bird Hot Chicken
-- Chipotle
-- JINYA Ramen Bar
-- Ombu Grill & Ombu Hotpot
-- Ten Seconds Yunnan Rice Noodle
-- Red Maple Chinese Restaurant
-- Tea Bar、Kung Fu Tea(from NY)
-- 中國城: Aboutea(功夫茶)、老虎堂、85度C
-- 快樂小羊
-- 刁四麻辣燙
-- 港式燒鴨、點心
+## 🍽️ 餐廳推薦
+
+以下是學生常去的美式與亞洲餐廳（包含校園附近與市區）：
+
+- **B&D Burgers**：位於校園附近，漢堡好吃，但價格小貴，是宵夜或外食的好選擇。
+- **The Pie Pizzeria**：人氣披薩店。
+- **Raising Cane's Chicken Fingers**：主打炸雞手指＋特製醬，好吃但記得配青菜補回來。
+- **Shake Shack / In-N-Out Burger**：連鎖漢堡經典組合，口味穩定，In-N-Out 有時會大排長龍。
+- **Pretty Bird Hot Chicken**：猶他當地人氣辣雞餐廳，口味偏重。
+- **Chipotle**：墨西哥捲、碗飯，配料可客製，很適合快速補充熱量。會長的最愛🥰。
+- **JINYA Ramen Bar**：日式拉麵連鎖店，口味偏重鹹，有時會推出限定菜單。
+- **Ombu Grill & Ombu Hotpot**：韓式烤肉與火鍋吃到飽，適合聚餐。
+- **Ten Seconds Yunnan Rice Noodle（過橋米線）**：湯底香、份量足，適合想吃點熱湯的人。
+- **Red Maple Chinese Restaurant**：傳統中菜與粵菜，適合家庭聚餐。
+- **Tea Bar / Kung Fu Tea**：珍奶連鎖品牌，Kung Fu Tea 是來自紐約的分店。
+- **中國城茶飲與甜點**：
+  - **Aboutea（功夫茶）**
+  - **老虎堂**
+  - **85 度 C**
+- **快樂小羊**：內用火鍋選擇多，湯底與沾醬齊全。平日四點前入座便宜很多！
+- **刁四麻辣燙**：中式麻辣燙口味地道，想吃辣的推薦。
+- **港式燒鴨 / 點心店**：中國城內有幾家港式茶餐廳，叉燒、燒鴨、蝦餃、燒賣通通有！

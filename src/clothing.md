@@ -1,19 +1,26 @@
 # 衣
 
-### Outlets
+來到猶他這種冬天會下雪、日夜溫差大的地方，衣服準備很重要！如果你沒打算在台灣準備齊全，其實在這裡也能買到便宜又保暖的衣物～這裡整理幾個常見服飾與生活用品購買地點。
 
-- Ross Dress
-- T.J. Maxx(Marshalls、Sierra)
-- JCPenney
-- Macy’s
-- Costco
-- [Outlets Park City](https://www.google.com/maps/place/Outlets+Park+City/@40.6442686,-111.736565,10.72z/data=!4m6!3m5!1s0x87526bf3aefd97e1:0x4f5595a563bbb574!8m2!3d40.7272387!4d-111.5518117!16s%2Fg%2F1hc5pz7xr?entry=ttu)
+## 🛍️ 折扣服飾店（Outlets & 百貨）
 
-### Other Stores
+- **Ross Dress for Less**：超便宜的服飾雜貨店，適合挖寶，偶爾會有牌子外套、牛仔褲等特價品
+- **T.J. Maxx / Marshalls / Sierra**：類似 Ross，但品牌選擇稍多一點，偶爾會出現戶外機能衣、登山裝備
+- **JCPenney**：傳統百貨公司，有服飾、行李箱、家用品等，品質穩定、價格適中
+- **Macy’s**：品牌百貨，打折時有機會買到名牌服飾（例如 Nike、CK）不過價格偏高
+- **Costco**：有時會賣便宜羽絨外套、機能衣、手套等，一次補齊冬季裝備不錯
+- **[Outlets Park City](https://www.google.com/maps/place/Outlets+Park+City)**：最接近鹽湖城的大型 Outlet，有 Nike、Adidas、Columbia 等牌子，常有季末折扣
 
-- Best Buy
-- Target
-- Gamestore
-- Dollar Tree
-- Kohl’s
-- IKEA
+📌 小提醒：Outlets Park City 離市區約 40 分鐘車程，建議結伴搭車或開車去逛
+
+## 🛒 生活百貨與日用品店
+
+- **Target**：應有盡有的生活百貨，服飾區也常有簡約好看的日常衣物，文具、美妝也可一起買
+- **Kohl’s**：主打平價服飾與家庭用品，常有折價券或特價活動
+- **Dollar Tree**：一切都是 $1.25，雖然衣物類不多，但襪子、帽子等小東西可挖寶
+- **IKEA**：除了家具，還能買到便宜的圍巾、毯子、拖鞋等過冬好物
+
+## 🎮 電子與潮流店（順便看看）
+
+- **Best Buy**：電器大賣場，有時會有電暖器、除濕機、電風扇等季節性用品
+- **Gamestore（如 GameStop）**：雖不是買衣服，但常有動漫/遊戲周邊 T-shirt、帽子等，適合宅宅收藏
