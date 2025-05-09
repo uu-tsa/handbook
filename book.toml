@@ -4,3 +4,10 @@ language = "en"
 multilingual = false
 src = "src"
 title = "鹽湖城生存手冊"
+
+[output.html]
+default-theme = "light"
+additional-js = []
+
+[output.html.search]
+enable = true
