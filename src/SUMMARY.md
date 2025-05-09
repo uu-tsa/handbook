@@ -1,25 +1,25 @@
 - [簡介](./intro.md)
 
 # 🔰 新生專區
-- [行前準備｜申請簽證、打包行李等](./pre_arrival.md)
-- [抵達後須知｜手機門號、銀行開戶等](./arrival.md)
-- [大一新生指南｜選課建議、生活分享](./freshman.md)
+- [行前準備](./pre_arrival.md)
+- [抵達後手續](./arrival.md)
+- [大一新生指南](./freshman.md)
 
 # 🏠 生活指南
-- [吃什麼？｜超市、亞洲食品、餐廳推薦](./food.md)
-- [穿什麼？｜氣候與穿搭建議](./clothing.md)
-- [住哪裡？｜宿舍、租屋經驗談](./housing.md)
-- [怎麼走？｜交通方式與通勤小技巧](./comute.md)
-- [放鬆一下｜休閒娛樂與社交活動](./entertainment.md)
-- [信用卡與理財｜美國信用制度介紹](./credit_card.md)
+- [吃：超市與餐廳](./food.md)
+- [穿：氣候與穿搭](./clothing.md)
+- [住：校內外住宿](./housing.md)
+- [行：交通與駕照](./comute.md)
+- [玩：休閒娛樂](./entertainment.md)
+- [錢：信用卡與理財](./credit_card.md)
 
 # 🎓 校園資源
-- [校園導覽｜常用建築與設施介紹](./buildings.md)
-- [免費資源｜學生專屬優惠與好康](./free_uu.md)
-- [打工資訊｜校內外工讀與薪資分享](./part_time.md)
-- [碩士專區：MSCS](./mscs.md)
-- [碩士專區：MSD](./msd.md)
+- [建築與設施](./buildings.md)
+- [校內免費資源](./free_uu.md)
+- [打工與 SSN](./part_time.md)
+- [MSCS 碩士課程](./mscs.md)
+- [MSD 碩士課程](./msd.md)
 
 # 📌 實用資訊
-- [更多免費資源｜網路、交通、APP 推薦](./free.md)
-- [報稅教學｜常見表格與操作步驟](./tax.md)
+- [外部免費資源](./free.md)
+- [報稅指南](./tax.md)
